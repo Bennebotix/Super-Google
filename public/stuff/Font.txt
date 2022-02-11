@@ -1,0 +1,14 @@
+/*SETUP THE FONT*/
+
+@font-face {
+    font-family: 'pixel_gosubregular';
+    src: url('../../pixelgosub-zarz-webfont.woff2') format('woff2'),
+         url('../../pixelgosub-zarz-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+  font-family: 'pixel_gosubregular'
+}
