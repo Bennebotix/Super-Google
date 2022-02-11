@@ -10,7 +10,6 @@ function m() {
 
 load = localStorage.getItem("loadgame");
 if (load !== "true") {
-  window.open("https://www.thepixeltrade.tk", "_self");
 }
 
 
