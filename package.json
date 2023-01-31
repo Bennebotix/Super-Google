@@ -1,7 +1,7 @@
 {
   "name": "nodeunblocker.com",
   "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "author": "Bennebotix",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
